@@ -1,2 +1,2 @@
 # Band_name_generator_basic
-As part of 100 days of code, this is the first coding exercise which helps in understanding variables and print function. 
+As part of 100 days of code, this is the first coding exercise which helps in understanding variables and print function. Understand various printing methods like printF method etc. This exercise is a simple concatination of 2 variables which takes in input from users and combines them to give a band name. This exercise is a little more than an "Hello World". Can also find the course link here - https://www.udemy.com/course/100-days-of-code/
